@@ -70,7 +70,7 @@ test-output/ExtentReport.html
 
 ## 📸 Sample Report Screenshot
 
-> *Add a screenshot of your ExtentReport.html here once you run the tests and take a screenshot*
+> <img width="1909" height="801" alt="image" src="https://github.com/user-attachments/assets/f0f21a12-d5e6-4907-a986-577a1d903dd2" />
 
 ---
 
